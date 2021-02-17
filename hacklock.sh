@@ -28,6 +28,17 @@ echo
 clear
 
 #!/bin/bash
+#installation
+clear
+echo ""
+echo ""
+echo " SUBSCRIBE MY CHANNEL 🔔 " | lolcat
+xdg-open https://syr.us/iiW
+echo ""
+clear
+
+
+#!/bin/bash
 # Hacklock by Nitro
 #youtube.com/noobhackers
 #not for illegel use
