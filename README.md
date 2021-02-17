@@ -36,7 +36,7 @@ Hacklock is a bash based script which is officially termux from this tool in jus
 * `git clone https://github.com/SDMH-Hacking-TV/Patternhack444`
 * `cd Patternhack444`
 * `ls`
-* `bash hacklock.sh`
+* `Next Command FB Group.`
 ```
 [+]--Now you need internet connection to continue further process and Turn on your device hotspot to get link...
 
