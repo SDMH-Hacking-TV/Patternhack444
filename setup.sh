@@ -1,9 +1,9 @@
 clear
-toilet -f mono12 -F gay "SDMH"
+toilet -f mono12 -F gay "SDMH-Hacking"
+toilet -f mono12 -F gay "     TV"
 pip install lolcat
 git clone https://github.com/SDMH-Hacking-TV/Patternhack444
 cd $HOME
-ls
 cd Patternhack444
 ls
 echo ""
