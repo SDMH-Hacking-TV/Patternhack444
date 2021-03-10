@@ -8,4 +8,4 @@ cd Patternhack444
 ls
 echo ""
 echo ""
-echo "Now run bash fbphis.sh " | lolcat
+echo "Now run bash hacklock.sh " | lolcat
