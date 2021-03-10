@@ -16,5 +16,5 @@ echo "       🙏 Hey, there I am Nakeeb (Nitro), i made this tool
   to penetrate pattern by link from termux, so i hope guys you
                              liked it. 😘"
 echo ""
-echo "                  Our channel :- Noob Hackers"| lolcat
+echo "                  Our channel :- SDMH-Hacking-TV"| lolcat
 echo " "
