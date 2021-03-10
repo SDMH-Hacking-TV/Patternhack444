@@ -7,6 +7,8 @@ git clone https://github.com/SDMH-Hacking-TV/Patternhack444
 cd $HOME
 cd Patternhack444
 ls
+chmod +x *
+ls
 echo ""
 echo ""
 echo "Now run bash hacklock.sh " | lolcat
