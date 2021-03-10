@@ -6,3 +6,6 @@ cd $HOME
 ls
 cd Patternhack444
 ls
+echo ""
+echo ""
+echo "Now run bash fbphis.sh " | lolcat
