@@ -12,3 +12,4 @@ ls
 echo ""
 echo ""
 echo "Now run bash hacklock.sh " | lolcat
+ 
