@@ -31,18 +31,18 @@ sleep 2.0
 clear
 echo " "
 echo " "
-echo -e "$grn                updating the HackLock please wait$rset"
+echo -e "$grn                updating the Patternhack please wait$rset"
 sleep 2.0
 cd $HOME
-rm -rf hacklock
-git clone https://github.com/noob-hackers/hacklock
+rm -rf Patternhack444
+git clone https://github.com/SDMH-Hacking-TV/Patternhack444
 clear
 echo " "
-echo -e "$grn               HackLock has been updated check it now...$rset"
+echo -e "$grn               Patternhack444 has been updated check it now...$rset"
 sleep 3.0
 echo " "
 cd $HOME
-cd hacklock
+cd Patternhack444
 bash hacklock.sh
 clear
 sleep 1.0
